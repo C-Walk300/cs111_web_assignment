@@ -1,0 +1,19 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+h1 {
+  font-family: Times New Roman, Times, serif;
+  color: red;
+}
+p {
+  color:green;
+  font-size: 18pt;
+}
+ol {
+  list-style: upper-roman;
+}
